@@ -1,0 +1,13 @@
+$bg-color: #000;
+$fg-color: #fff;
+
+$accent-color: #afa;
+$font-stack: monospace;
+
+body {
+	font: 1rem $font-stack;
+	background: $bg-color;
+	margin: 4rem 20vw 0 10vw;
+	color: $fg-color;
+}
+
